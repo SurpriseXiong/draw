@@ -1,11 +1,26 @@
-<mxfile host="www.draw.io" modified="2020-01-08T07:03:42.743Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="5-6_-2PZZwY4erNNwVjD" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T07:19:32.821Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="6Yck6zDd5jTOqOJLUqdO" version="12.4.9" type="github">
   <diagram id="5FtXfE8RjN9_6a2D83A7" name="Page-1">
     <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="620" height="290" as="geometry"/>
+        </mxCell>
         <mxCell id="QCZ1JTYg6e06TpU6bpv8-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="30" height="60" as="geometry"/>
+          <mxGeometry x="80" y="70" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-5" value="规则录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-6" value="规则下发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-7" value="告警配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-8" value="缓存配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

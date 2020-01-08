@@ -1,0 +1,13 @@
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+/boss-soa.tar.gz
+log.dir_IS_UNDEFINED/
+*.tar.gz
+
+*/disconf/download/

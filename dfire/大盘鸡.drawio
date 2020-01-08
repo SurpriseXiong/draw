@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T08:07:59.677Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="yPxrKQcCApfXOTkRiYYS" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T08:13:08.877Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="p5Pgt6R0DQPVAsLuTFNF" version="12.4.9" type="github">
   <diagram id="5FtXfE8RjN9_6a2D83A7" name="Page-1">
     <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -68,6 +68,15 @@
         </mxCell>
         <mxCell id="QCZ1JTYg6e06TpU6bpv8-33" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="80" width="60" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-37" value="大盘鸡后台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-38" value="业务接入方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="532" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="QCZ1JTYg6e06TpU6bpv8-39" value="统一规则实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="870" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T14:38:05.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="nDzLhg4b4YPPxN1z6oiI" version="13.1.1" type="github"><diagram id="Sizv53GJ1CMU2iI6ObW9" name="第 1 页">1VlRc6IwEP41eWxHQBAeAfV86E1714drn24ipMAdEBpD1fv1t4EgIGrtnCfF6dTsl80m2f12ExBpbrL5wnAWfqU+iZE68jdImyJVVUeKBl8C2ZaIYSglELDIL6EG8Bj9IRIcSTSPfLJqKXJKYx5lbdCjaUo83sIwY3TdVnuhcXvWDAekAzx6OO6iPyKfhyVqqpMaX5AoCKuZFcMqexJcKcudrELs03UD0mZIcxmlvGwlG5fEwnmVX8px8yO9u4UxkvJzBtzbi9cH480lP5+C77ZufLtPvBtp5Q3HudywXCzfVh5gNE99IoyMkOasw4iTxwx7oncNMQcs5EkMkgJNaY4wTjZH16nsdg+0ITQhnG1BRQ4wpb+2FRGkvK7dr00kFjZcvxuIZciDnenaK9CQjvmAk9QDTjJimNZ5obCnpreM11zE0xEeiIBFNziOghRptpgjDQmLeK0ErUB+X9DagvNM7Be8A61VZRyg0n57zg7cc/QVfS/8ejf8inog/Mb/ir7R8QnxoURIkTIe0oCmOJ7VqNP2Wq1zR2kmffWLcL6V9Q7nnLY9STYRfxLDb3UpPTd6phtpuRC2UijXKRZ32vewF5ozj5zYsyzaHLOA8BN648OxZCTGPHprr+PigZkMKi39fLmkSDBXpCaajZEzRc4czSbIGiPbRDMdmTpyjKLLQVbZcJENyiZyZsjSCp0pMucCsWfiTzVwIrIwXa6yU2l9XrZfkdlKg9ejW1U/SW0gMNs+NYXnOjmEWA8rpB5TQu8zJazPE9HTAe0hMGafgdEGVauQqyFHEUE/Vl+WbH/mBiKK0wTZUK4MZEHdGnmMpo3SZ4rSB7VLFrHpcaNDubQY7UvL7ira26VlPCy+fWZrQGITWKoXh++8oLUlTmo4iOHsLpl8TlZ0EJxF3fQCQoj/Zcb8a1oMK4n2bv660ncS6YNKIpclA4u4sVc2lUnfETcHFfHXI88MJrLsostGtlIcwgZyrKGRY9Imx/jAe6DrkkNROk7p7Xat7X1OPz2B8AAUAjcQ9s4T1fidJ6pC2jd2wdt8VfTfvc4fYc91rvPVKhuFwvY4ZR2CrEKciWaexKVCneJ3eEniB7qKeARnvTZdUs5pAgqx6HCw9zsoyOPSWIwDa9pL8WnYsMsqMeV0LwFpzuMoJe7urfjoMll5o4z3arZ14PXsVbNyWI9WC4jUsArxGe/jzQMBVz8ecBDrn0OKvsaPStrsLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-15T14:38:18.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="KNvT6ulhK-ApAU9f919z" version="13.1.1" type="github">
+  <diagram id="Sizv53GJ1CMU2iI6ObW9" name="第 1 页">
+    <mxGraphModel dx="2013" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="370" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Http/ https&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OAHqP6vCe_XgRA56QOmc-3" target="OAHqP6vCe_XgRA56QOmc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;dubbo / 使用其他传输协议&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OAHqP6vCe_XgRA56QOmc-3" target="OAHqP6vCe_XgRA56QOmc-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OAHqP6vCe_XgRA56QOmc-3" target="OAHqP6vCe_XgRA56QOmc-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ñetty&amp;nbsp;&lt;br&gt;&lt;br&gt;解析cron / 轮训&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;接口配置&lt;br&gt;&lt;br&gt;&lt;br&gt;api&amp;nbsp; + cron&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Crm&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;q其他业务方&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OAHqP6vCe_XgRA56QOmc-10" target="OAHqP6vCe_XgRA56QOmc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAHqP6vCe_XgRA56QOmc-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Hop&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zl8wqpDbjmQLM3hSdraK-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
